@@ -42,7 +42,7 @@
 #define QTTREEPROPERTYBROWSER_H
 
 #include "qtpropertybrowser.h"
-#include <QtGui/QAbstractItemDelegate>
+#include <QAbstractItemDelegate>
 
 #if QT_VERSION >= 0x040400
 QT_BEGIN_NAMESPACE

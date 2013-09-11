@@ -53,8 +53,8 @@
 #define QTPROPERTYBROWSERUTILS_H
 
 #include <QtCore/QMap>
-#include <QtGui/QIcon>
-#include <QtGui/QWidget>
+#include <QIcon>
+#include <QWidget>
 #include <QtCore/QStringList>
 
 #if QT_VERSION >= 0x040400
